@@ -1,7 +1,7 @@
 # Demo
 https://www.youtube.com/watch?feature=shared&v=0qLkK1wRQh4
 
-UI Mockup using Figma
+# UI Mockup using Figma
 https://www.figma.com/proto/MpfS3silidW9BJUILoiffz/CoBuildr-Mockup?node-id=154-0&starting-point-node-id=154%3A0
 
 # Project Download Guide
